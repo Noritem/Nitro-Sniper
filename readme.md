@@ -11,7 +11,7 @@
 ### ☕ Usage  
 - #### 💻 Downloading
      ```
-    >> git clone https://github.com/veloservice/Nitro-Sniper
+    >> git clone https://github.com/Noritem-Dev/Nitro-Sniper
     >> pip install -r requirements.txt
     ```
 - #### 🖥️ Starting
@@ -22,7 +22,7 @@
 
 
 ### 🧰 Support
-- Discord: https://discord.gg/toolstown
+- Discord: https://discord.gg/veloservice
 
 ##  
 
